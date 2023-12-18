@@ -1,7 +1,7 @@
 # Author - Shubham Kumar
 
-# Description - I have prepared ATM program to perform various activities like depositing the money, withdraw money and checking balance .In this we used to access their bank accounts in order to make cash withdrawals. Whenever the user want to perform any action , they can enter their PIN number (personal identification
-# number) and they can perform their task. 
+# Description - I have prepared ATM program to perform various activities like depositing the money, withdraw money and checking balance .In this we used to access their bank accounts in order to make cash withdrawals. Whenever the user want to perform any action , they can enter their PIN number (personal identification number) and they can perform their task. 
+
 # Technology Used - JAVA , JDBC, MYSQL. 
 
 # Database name - ATMSystem
